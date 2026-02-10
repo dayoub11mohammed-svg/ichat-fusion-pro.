@@ -1,0 +1,8 @@
+{
+  "name": "iChat Fusion Pro",
+  "description": "A high-fidelity iOS-styled chat application merging WhatsApp and Telegram features, powered by Gemini AI for real-time interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
